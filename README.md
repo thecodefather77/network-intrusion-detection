@@ -28,7 +28,7 @@ The model is implemented using **XGBoost** due to its high performance and robus
 ## Model Architecture
 The overall model architecture is shown below.
 
-![Model Architecture](visualizations/model_architecture.jpg)
+![Model Architecture](visualisations/model_architecture.jpg)
 
 ---
 
