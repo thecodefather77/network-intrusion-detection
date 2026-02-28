@@ -1,0 +1,15 @@
+﻿Attack Type,Distribution
+dos_hulk,0.40590
+ddos,0.30060
+portscan,0.21330
+dos_golden_eye,0.02420
+ftp_patator,0.01390
+dos_slow_loris,0.01260
+dos_slow_http_test,0.01230
+ssh_patator,0.00760
+bot,0.00460
+web_attack_brute_force,0.00350
+web_attack_xss,0.00150
+infiltration,0.00010
+web_attack_sql_injection,0.00000
+heartbleed,0.00000
