@@ -1,4 +1,4 @@
-Dashboard Link:
+Dashboard Link: https://network-intrusion-detection-123.streamlit.app/
 
 Credentials:
 User Name: admin
